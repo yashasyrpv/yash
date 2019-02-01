@@ -1,0 +1,6 @@
+c:\Users\Admin\documents\visual studio 2015\Projects\append\infix to postfix\bin\Debug\infix to postfix.exe.config
+c:\Users\Admin\documents\visual studio 2015\Projects\append\infix to postfix\bin\Debug\infix to postfix.exe
+c:\Users\Admin\documents\visual studio 2015\Projects\append\infix to postfix\bin\Debug\infix to postfix.pdb
+c:\Users\Admin\documents\visual studio 2015\Projects\append\infix to postfix\obj\Debug\infix to postfix.csprojResolveAssemblyReference.cache
+c:\Users\Admin\documents\visual studio 2015\Projects\append\infix to postfix\obj\Debug\infix to postfix.exe
+c:\Users\Admin\documents\visual studio 2015\Projects\append\infix to postfix\obj\Debug\infix to postfix.pdb
